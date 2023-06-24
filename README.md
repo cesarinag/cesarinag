@@ -3,9 +3,6 @@
 i'm currently working on creating what makes me happy. 
 
 
-i'm learning what makes me happy. 
-
-
 <!--
 **cesarinag/cesarinag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
