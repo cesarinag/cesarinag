@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-i'm currently working on creating what makes me happy. 
+ new boot goofin'
 
 
 <!--
